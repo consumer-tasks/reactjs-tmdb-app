@@ -1,15 +1,15 @@
 # TMDb Movie Search
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
-[![GitHub stars](https://img.shields.io/github/stars/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/network)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/consumer-tasks/reactjs-tmdb-app/blob/master/LICENCE)
+[![GitHub stars](https://img.shields.io/github/stars/consumer-tasks/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/consumer-tasks/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/consumer-tasks/reactjs-tmdb-app/network)
 [![Mentioned in Awesome React](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-react)
 
 TMDb Movie Search is a responsive [React](http://facebook.github.io/react/index.html) app that utilises Twitter's [typeahead.js](https://twitter.github.io/typeahead.js/) and [Bloodhound](https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md) suggestion engine, loading data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
-![](https://github.com/SKempin/reactjs-tmdb-app/blob/master/docs/images/tmdb-demo.gif)
+![](https://github.com/consumer-tasks/reactjs-tmdb-app/blob/master/docs/images/tmdb-demo.gif)
 
 ## Demo
-[TMDb Movie Search - Live DEMO](https://skempin.github.io/reactjs-tmdb-app/)
+[TMDb Movie Search - Live DEMO](https://consumer-tasks.github.io/reactjs-tmdb-app/)
 
 ## Tools
 Key tools used in this React project are:
@@ -30,7 +30,7 @@ Key tools used in this React project are:
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo: `git@github.com:SKempin/reactjs-tmdb-app.git`
+1. Clone the repo: `git@github.com:consumer-tasks/reactjs-tmdb-app.git`
 2. `cd reactjs-tmdb-app`
 2. Install packages: `npm install` and `bower install`
 3. Build project and launch: `gulp watch`
@@ -49,8 +49,7 @@ This project makes usage of the Fetch API, utilising a polyfill for older browse
 Supports LTS version (v6).
 
 ## Author
-[Michael](https://https://www.linkedin.com/mi
-chael-wen628)
+[Michael](https://https://www.linkedin.com/michael-wen628)
 
 [SK-UK Google Play Store](https://play.google.com/store/apps/developer?id=SK+-+UK)
 
@@ -63,5 +62,4 @@ If you like this project and wish to say to say thanks - I'm always open to a co
 ## License
 [MIT](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
 
-You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://https://www.linkedin.com/mi
-chael-wen628/) and links back to [this repo](https://github.com/consumer-tasks/reactjs-tmdb-app).
+You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://https://www.linkedin.com/michael-wen628/) and links back to [this repo](https://github.com/consumer-tasks/reactjs-tmdb-app).
