@@ -49,7 +49,8 @@ This project makes usage of the Fetch API, utilising a polyfill for older browse
 Supports LTS version (v6).
 
 ## Author
-[Stephen Kempin](https://www.stephenkempin.co.uk)
+[Michael](https://https://www.linkedin.com/mi
+chael-wen628)
 
 [SK-UK Google Play Store](https://play.google.com/store/apps/developer?id=SK+-+UK)
 
@@ -62,4 +63,5 @@ If you like this project and wish to say to say thanks - I'm always open to a co
 ## License
 [MIT](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
 
-You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/SKempin/reactjs-tmdb-app).
+You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://https://www.linkedin.com/mi
+chael-wen628/) and links back to [this repo](https://github.com/consumer-tasks/reactjs-tmdb-app).
